@@ -21,7 +21,7 @@ URL in round brackets
 [CodeAdam](https://codeadam.ca)
 
 ## Images
-![Markdown Logo](markdown/git.png)
+![Markdown Logo](git.png)
 <img src="markdown/git.png" width="50">
 
 ## Code
